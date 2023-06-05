@@ -1,7 +1,8 @@
 ## Lecture Materials for the Vatican Observatory Summer School 2023
 ### command to copy this repository to your computer: 
-### >git clone https://github.com/VaticanObsSummerSchool2023/lectures.git
-
+```console
+git clone https://github.com/VaticanObsSummerSchool2023/lectures.git
+```
 
 == [Software installation instructions](https://github.com/VaticanObsSummerSchool2023/lectures/blob/main/SOFTWARE_INSTALLATION.md) ==
 
